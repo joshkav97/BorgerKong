@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Borger Kong</string>
+    <string name="Order_Total">Order Total: $%.2f</string>
+    <string name="Sample_Item_Name">Item Name </string>
+    <string name="subtotal">$%.2f</string>
+    <string name="add_to_cart">Add To Order</string>
+    <string name="less">-</string>
+    <string name="more">+</string>
+    <string name="view_order">View Order</string>
+    <string name="item_added">Item Added!</string>
+    <string name="Sample_Item_Qty">Qty</string>
+</resources>
